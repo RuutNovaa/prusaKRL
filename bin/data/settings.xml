@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Menu>
+	<File_management>
+		<Open_ArcWelded_File>0</Open_ArcWelded_File>
+		<Save_ArcWelded_KRL>0</Save_ArcWelded_KRL>
+		<Process_current>0</Process_current>
+	</File_management>
+	<Extrusion_management>
+		<Layer_height__mm_>1.5</Layer_height__mm_>
+		<Layer_width__mm_>4.5</Layer_width__mm_>
+		<Volume_per_rotation__cm3_rev_>1.26</Volume_per_rotation__cm3_rev_>
+		<Calculated_flowC__mult_>1.98957</Calculated_flowC__mult_>
+	</Extrusion_management>
+	<Geometrical_management>
+		<Print_origin__mm_>2240, 0</Print_origin__mm_>
+		<Print_Z_offset__mm_>761.64</Print_Z_offset__mm_>
+		<Print_speed__cm_s_>10</Print_speed__cm_s_>
+		<Print_speed__m_s_>0.07</Print_speed__m_s_>
+	</Geometrical_management>
+</Menu>
