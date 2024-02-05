@@ -14,3 +14,6 @@ These files are intended to replace source and header files for openFrameworks. 
 - Analyze heat-dissipation per layer (for 3D-printing this is key; previous layer(s) shouldnt be to hot or cold)
 - Break-out forms of extrusion control (We have a specific way of controllingt (Analog (1-0)), but can bet different)
 - Improve GUI based on above features (make WYSIWYG!)
+
+# Funding
+This script is product of an ongoing research by; The Fieldwork Company, NIOZ, University of Utrecht and Bureau Waardenburg.
