@@ -7,7 +7,7 @@ Our current setup has an Analog output of an external PLC hooked up to the CEAD 
 You can not assume this script works one on one on your setup, you most likely know this, but still, read. Especially if your world coordinates differ from ours you will get an arm knocked in your face.
 
 # Compiled using OF 11.2
-These files are intended to replace source and header files for openFrameworks. Include ofxGui.
+These files are intended to replace source and header files for openFrameworks. One could replace the emptyExample source files with these. If your building on make build system make sure to inclde ofxGui to your addons.make :)
 
 # Future work
 - Reorganize g-code recignition to more general machining function (make it more universal)
