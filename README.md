@@ -16,4 +16,4 @@ These files are intended to replace source and header files for openFrameworks. 
 - Improve GUI based on above features (make WYSIWYG!)
 
 # Funding
-This script is product of an ongoing research by; The Fieldwork Company, NIOZ, University of Utrecht and Bureau Waardenburg.
+This script is product of an ongoing research by; The Fieldwork Company, NIOZ, University of Utrecht
